@@ -1,13 +1,17 @@
-import Blast from "./components/blast";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Home from "./pages/home";
+import Layout from "./layout/layout";
+import Jobs from "./pages/Jobs";
 
-function App() {
+export default function App() {
   return (
-    <>
-      <div className="container">
-        <Blast />
-      </div>
-    </>
+    <Router>
+      <Layout>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/jobs" element={<Jobs />} />
+        </Routes>
+      </Layout>
+    </Router>
   );
 }
-
-export default App;
