@@ -4,6 +4,6 @@
 
 @layer components {
   .link-primary {
-    @apply block py-2 px-2 text-color-text-darker hover:font-bold  rounded md:bg-transparent;
+    @apply block py-2 px-2 text-ikea-darker hover:font-bold  rounded md:bg-transparent;
   }
 }
