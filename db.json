@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Juliet Oma",
+      "email": "julie@yahoo.com",
+      "number": "08100000000"
+    },
+    {
+      "id": 2,
+      "name": "James Williams",
+      "email": "jameswilly@gmail.com",
+      "number": "08111111111"
+    },
+    {
+      "id": 3,
+      "name": "Ahmed Ali",
+      "email": "ahmedali012@gmail.com",
+      "number": "09022222222"
+    },
+    {
+      "id": 4,
+      "name": "Grace Funsho",
+      "email": "gracefunsho@gmail.com",
+      "number": "09033333333"
+    }
+  ],
+  "wayWorking": [
+    {
+      "id": 1,
+      "title1": "What guides us",
+      "title2": "Our culture and values",
+      "image": "https://www.ikea.com/global/en/images/an_ikea_co_worker_wearing_a_yellow_shirt_ai020202_PH_142722_ikea_l_7077cb9185.jpg?f=s"
+    },
+    {
+      "id": 2,
+      "title1": "Inspired by everyday life",
+      "title2": "Visiting homes to create better homes",
+      "image": "https://www.ikea.com/global/en/images/a_smiling_woman_standing_in_a_kitchen_ai010202_PH_131050_ikea_l_296f1598c3.jpg?f=s"
+    },
+    {
+      "id": 3,
+      "title1": "Diversity matters",
+      "title2": "Being an inclusive business",
+      "image": "https://www.ikea.com/global/en/images/a_young_woman_doodling_030502_PH_135822_ikea_l_a3a6759e31.jpg?f=s"
+    }
+  ]
+}

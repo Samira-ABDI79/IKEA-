@@ -26,12 +26,16 @@ export default {
         "ikea-grey": " #dfdfdf",
         "ikea-grey-dark": " #999999",
         "ikea-white": " #fff",
+        "ikea-divider": " rgba(0, 0, 0, 0.74)",
       },
       borderRadius: {
         "4xl": "1.75rem",
       },
       lineHeight: {
         108: "108%",
+      },
+      height: {
+        0.0625: "0.0625rem",
       },
       // objectPosition: {
       //   "50-50": "center bottom",
